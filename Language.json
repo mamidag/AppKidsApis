@@ -1,12 +1,44 @@
-{    
-"language" : [
-    {"id":"1", "name":"Turkce" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/turkey.jpg"},  
-    {"id":"2", "name":"Kurdî" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/kurdistan.jpg"},  
-    {"id":"3", "name":"English" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/english.png"},  
-    {"id":"4", "name":"Français" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/french.png"},  
-    {"id":"5", "name":"Deutsche" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/germany.png"},  
-    {"id":"6", "name":"Español" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/spain.png"},  
-    {"id":"7", "name":"Italiano" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/italy.png"}, 
-    {"id":"8", "name":"عربى" , "flag":"https://github.com/mamidag/AppKidsApis/tree/main/flags/arabian.png"}
-    ]
+{
+  "language": [
+    {
+      "id": "1",
+      "name": "Turkce",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/turkey.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Kurdî",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/kurdistan.jpg"
+    },
+    {
+      "id": "3",
+      "name": "English",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/english.png"
+    },
+    {
+      "id": "4",
+      "name": "Français",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/french.png"
+    },
+    {
+      "id": "5",
+      "name": "Deutsche",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/germany.png"
+    },
+    {
+      "id": "6",
+      "name": "Español",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/spain.png"
+    },
+    {
+      "id": "7",
+      "name": "Italiano",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/italy.png"
+    },
+    {
+      "id": "8",
+      "name": "عربى",
+      "flag": "https://github.com/mamidag/AppKidsApis/tree/main/flags/arabian.png"
+    }
+  ]
 }
