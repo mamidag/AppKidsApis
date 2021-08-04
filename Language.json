@@ -1,0 +1,12 @@
+{    
+"language" : [
+    {"id":"1", "name":"Turkce" , "flag":""},  
+    {"id":"2", "name":"Kurdî" , "flag":""},  
+    {"id":"3", "name":"English" , "flag":""},  
+    {"id":"4", "name":"Français" , "flag":""},  
+    {"id":"5", "name":"Deutsche" , "flag":""},  
+    {"id":"6", "name":"Español" , "flag":""},  
+    {"id":"7", "name":"Italiano" , "flag":""}, 
+    {"id":"8", "name":"عربى" , "flag":""}
+    ]
+}
