@@ -3,42 +3,50 @@
     {
       "id": "1",
       "name": "Turkce",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/turkey.jpg"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/turkey.jpg",
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/turkce.mp3"
     },
     {
       "id": "2",
       "name": "Kurdî",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/kurdistan.jpg"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/kurdistan.jpg"ö
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/turkce.mp3"
     },
     {
       "id": "3",
       "name": "English",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/english.png"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/english.png"ö
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/ingilizce.mp3"
     },
     {
       "id": "4",
       "name": "Français",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/french.png"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/french.png",
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/fransızca.mp3"      
     },
     {
       "id": "5",
       "name": "Deutsche",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/germany.png"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/germany.png",
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/almanca.mp3"
     },
     {
       "id": "6",
       "name": "Español",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/spain.png"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/spain.png",
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/ispanyolca.mp3"
     },
     {
       "id": "7",
       "name": "Italiano",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/italy.png"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/italy.png",
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/italyanca.mp3"
     },
     {
       "id": "8",
       "name": "عربى",
-      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/arabian.png"
+      "flag": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/flags/arabian.png",
+      "sound": "https://raw.githubusercontent.com/mamidag/AppKidsApis/main/sound/arapca.mp3"
     }
   ]
 }
